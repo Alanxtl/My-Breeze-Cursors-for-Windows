@@ -1,3 +1,9 @@
+# Modification
+
+I reversed the precise-select icon colors to better match the screenshot function in windows.
+
+![Precise-selected Cursor](./Sources/precise.png)
+
 # Breeze Cursor for Windows
 ![Breeze Dark Cursor](./preview.png)
 
